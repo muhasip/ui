@@ -1,0 +1,39 @@
+{
+  "name": "muhasipui",
+  "private": false,
+  "version": "0.0.1",
+  "type": "module",
+  "main": "dist/muhasip-ui.umd.js",
+  "author": "Murat Duran <murat@muhasip.com.tr>",
+  "homepage": "https://ui.muhasip.dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhasip/ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/muhasip/ui/issues"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "muhasip",
+    "vue components"
+  ],
+  "exports": {
+    ".": "./dist/muhasipui.umd.cjs",
+    "./src": "./src/*"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.1.0"
+  }
+}
