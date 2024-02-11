@@ -1,9 +1,9 @@
 {
-  "name": "muhasipui",
+  "name": "muhasip-ui",
   "private": false,
   "version": "0.0.1",
   "type": "module",
-  "main": "dist/muhasip-ui.umd.js",
+  "main": "dist/muhasipui.umd.js",
   "author": "Murat Duran <murat@muhasip.com.tr>",
   "homepage": "https://ui.muhasip.dev",
   "license": "MIT",

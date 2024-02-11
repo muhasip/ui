@@ -3,8 +3,8 @@
 <h1 align="center">Muhasip Arayüz Kütüphanesi</h1>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/muhasipui">
-    <img src="https://img.shields.io/npm/v/muhasipui.svg" alt="NPM Package Stable" />
+  <a href="https://www.npmjs.com/package/muhasip-ui">
+    <img src="https://img.shields.io/npm/v/muhasip-ui.svg" alt="NPM Package Stable" />
   </a>
   <a href="https://github.com/muhasip/ui/blob/main/LICENCE">
     <img src="https://img.shields.io/github/license/muhasip/ui" alt="License" />
